@@ -1,0 +1,20 @@
+{
+    "input_data": {
+      "columns": [
+        "day",
+        "mnth",
+        "year",
+        "season",
+        "holiday",
+        "weekday",
+        "workingday",
+        "weathersit",
+        "temp",
+        "atemp",
+        "hum",
+        "windspeed"
+      ],
+      "index": [],
+      "data": []
+    }
+  }
