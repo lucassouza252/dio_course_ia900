@@ -1,0 +1,6 @@
+# Reconhecimento de fala natural e analises de sentimentos
+
+A análise de sentimentos em textos é uma área importante no campo da linguística computacional e da inteligência artificial, com uma variedade de aplicações em diferentes setores como entendimento dos clientes, feedbacks em midia sociais em larga escala onde uma pessoa só não daria conta de fazer toda a análise, auxilio na tomada de decisões empresariais, serviço ao cliente, entre outros.
+
+
+A tecnologia de reconhecimento de fala, conhecida como "speech-to-text" (STT) ou reconhecimento de fala automático (ASR - Automatic Speech Recognition), desempenha um papel significativo em várias áreas devido aos benefícios que oferece como auxilio na acessibilidade para pessoas que não enxergam e podem apenas falar e o sistema escrever de forma automatica, aumento de produtividade onde ao invés da pessoa parar o que esta fazendo para digitar notas, ela pode apenas falar. Interação com dispositivos por meio de fala, tradução automática, legenda em tempo real, entre outros.
